@@ -1,2 +1,2 @@
 # logocce
-Tossing words in vector space
+Tossing words into vector space
